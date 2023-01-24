@@ -1,1 +1,3 @@
 ## GNN & Expressiveness papers from top CS conferences
+
+ICLR-2022: A NEWPERSPECTIVE ON "HOW GRAPH NEURAL NETWORKS GO BEYOND WEISFEILER-LEHMAN?"
