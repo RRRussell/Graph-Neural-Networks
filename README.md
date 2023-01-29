@@ -1,3 +1,5 @@
 # Graph-Neural-Networks
 
-GNN papers from top CS conferences
+## GNN papers from top CS conferences/journals
+
+## Taxonomy
