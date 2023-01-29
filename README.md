@@ -33,14 +33,14 @@ GNN papers from top CS conferences/journals
 
 
 
-### [Knowledge Graph](./Knowledge%Graph])
+### [Knowledge Graph](./Knowledge%Graph)
 
 
 
-### [Large-Scale Graph](./Large-Scale%Graph])
+### [Large-Scale Graph](./Large-Scale%Graph)
 
 
 
-### [Others](./Others])
+### [Others](./Others)
 
 
