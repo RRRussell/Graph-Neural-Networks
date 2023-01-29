@@ -12,15 +12,15 @@ GNN papers from top CS conferences/journals
 ### [Deep Generative Models for Graphs](./Deep%20Generative%20Models%20for%20Graphs)
 
 
-### [Dynamic GNN](./Dynamic%20GNN])
+### [Dynamic GNN](./Dynamic%20GNN)
 
 
 
-### [Explainablity](./Explainablity])
+### [Explainablity](./Explainablity)
 
 
 
-### [Expressiveness](./Expressiveness])
+### [Expressiveness](./Expressiveness)
 
 
 
