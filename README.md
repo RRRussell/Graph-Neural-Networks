@@ -3,3 +3,10 @@
 GNN papers from top CS conferences/journals
 
 ## Taxonomy
+
+### Expressiveness
+
+
+
+
+
