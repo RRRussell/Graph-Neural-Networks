@@ -4,7 +4,7 @@ GNN papers from top CS conferences/journals
 
 ## Taxonomy
 
-### Adversarial Robustness
+### [Adversarial Robustness](./Adversarial%20Robustness)
 
 ### Auto Graph Learning
 
