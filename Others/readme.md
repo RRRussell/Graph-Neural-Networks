@@ -1,7 +1,10 @@
 ## GNN & Others
 
 
- ICLR-2020: Strategies for Pre-training Graph Neural Networks [[paper]](./papers/1905.12265.pdf) [[link]](https://arxiv.org/abs/1905.12265)
+NIPS-2020: Design Space for Graph Neural Networks [[paper]](./papers/2011.08843.pdf) [[link]](https://arxiv.org/abs/2011.08843)
+
+
+ICLR-2020: Strategies for Pre-training Graph Neural Networks [[paper]](./papers/1905.12265.pdf) [[link]](https://arxiv.org/abs/1905.12265)
 
 
 Findins-EMNLP-2020: Graph-to-Graph Transformer for Transition-based Dependency Parsing [[paper]](./papers/2020.findings-emnlp.294.pdf) [[link]](https://aclanthology.org/2020.findings-emnlp.294/)
