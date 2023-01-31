@@ -26,12 +26,6 @@ AAAI-2015: Learning Entity and Relation Embeddings for Knowledge Graph Completio
 ICLR-2015: Embedding Entities and Relations for Learning and Inference in Knowledge Bases [[paper]](./papers/1412.6575.pdf) [[link]](https://arxiv.org/abs/1412.6575)
 
 
-2013
-
-NIPS-2013: Neural Subgraph Matching [[paper]](./papers/NIPS-2013-translating-embeddings-for-modeling-multi-relational-data-Paper.pdf) [[link]](https://proceedings.neurips.cc/paper/2013/hash/1cecc7a77928ca8133fa24680a88d2f9-Abstract.html)
-
-
-
 ### Reasoning
 ***
 2020
