@@ -1,5 +1,6 @@
 ## GNN & Others
 
+2020
 
 ACL-2020: Graph-to-Tree Learning for Solving Math Word Problems [[paper]](./papers/2020.acl-main.362.pdf) [[link]](https://aclanthology.org/2020.acl-main.362/)
 
@@ -12,6 +13,7 @@ ICLR-2020: Strategies for Pre-training Graph Neural Networks [[paper]](./papers/
 
 NIPS-2020: Design Space for Graph Neural Networks [[paper]](./papers/2011.08843.pdf) [[link]](https://arxiv.org/abs/2011.08843)
 
+2018
 
 Arxiv-2018: Graph2Seq: Graph to Sequence Learning with Attention-based Neural Networks [[paper]](./papers/1804.00823.pdf) [[link]](https://arxiv.org/abs/1804.00823)
 

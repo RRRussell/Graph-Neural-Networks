@@ -35,8 +35,11 @@ NIPS-2013: Neural Subgraph Matching [[paper]](./papers/NIPS-2013-translating-emb
 ### Reasoning
 ***
 2020
+
 ICLR-2020: Query2box: Reasoning over Knowledge Graphs in Vector Space using Box Embeddings [[paper]](./papers/2002.05969.pdf) [[link]](https://arxiv.org/abs/2002.05969)
+
 2015
+
 EMNLP-2015: Traversing Knowledge Graphs in Vector Space [[paper]](./papers/1506.01094.pdf) [[link]](https://arxiv.org/abs/1506.01094)
 
 
@@ -44,4 +47,11 @@ EMNLP-2015: Traversing Knowledge Graphs in Vector Space [[paper]](./papers/1506.
 ### Recommend System
 ***
 
+2020
 
+SIGIR-2020: LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation [[paper]](./papers/3397271.3401063.pdf) [[link]](https://dl.acm.org/doi/abs/10.1145/3397271.3401063)
+
+
+2019
+
+SIGIR-2019: Neural Graph Collaborative Filtering [[paper]](./papers/1905.08108.pdf) [[link]](https://arxiv.org/abs/1905.08108)

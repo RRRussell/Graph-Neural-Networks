@@ -3,20 +3,21 @@
 
 ### Survey
 
+2022
+
 Arxiv-2022: Weisfeiler and Leman go Machine Learning: The Story so far [[paper]](./papers/2112.09992.pdf) [[link]](https://arxiv.org/abs/2112.09992)
 
+2020
 
 Arxiv-2020: A Survey on The Expressive Power of Graph Neural Networks [[paper]](./papers/2003.04078.pdf) [[link]](https://arxiv.org/abs/2003.04078)
 
-
 ### Papers
 
+2023
 
 TPAMI-2023: Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting [[paper]](./papers/2006.09252.pdf) [[link]](https://www.computer.org/csdl/journal/tp/2023/01/09721082/1BfU4VBkj8Q)
 
-
----
-
+2022
 
 ICLR-2022: A NEW PERSPECTIVE ON "HOW GRAPH NEURAL NETWORKS GO BEYOND WEISFEILER-LEHMAN?" [[paper]](./papers/4320_a_new_perspective_on_how_graph.pdf) [[link]](https://iclr.cc/virtual/2022/oral/6437)
 
@@ -41,9 +42,7 @@ NIPS-2022: Ordered Subgraph Aggregation Networks [[paper]](./papers/2206.11168.p
 
 NIPS-2022: Understanding and Extending Subgraph GNNs by Rethinking Their Symmetries [[paper]](./papers/2206.11140.pdf) [[link]](https://arxiv.org/abs/2206.11140)
 
-
----
-
+2021
 
 AAAI-2021: Identity-aware Graph Neural Networks [[paper]](./papers/2101.10320.pdf) [[link]](https://arxiv.org/abs/2101.10320)
 
@@ -71,9 +70,7 @@ NIPS-2021: Nested Graph Neural Networks [[paper]](./papers/2110.13197.pdf) [[lin
 
 NIPS-2021: Weisfeiler and Lehman Go Cellular: CW Networks [[paper]](./papers/2106.12575.pdf) [[link]](https://arxiv.org/abs/2106.12575)
 
-
----
-
+2020
 
 ICLR-2020: THE LOGICAL EXPRESSIVENESS OF GRAPH NEURAL NETWORKS [[paper]](./papers/1028_the_logical_expressiveness_of_.pdf) [[link]](https://openreview.net/forum?id=r1lZ7AEKvB)
 
@@ -98,9 +95,7 @@ NIPS-2020: Principal Neighbourhood Aggregation for Graph Nets [[paper]](./papers
 
 NIPS-2020: Weisfeiler and Leman go sparse: Towards scalable higher-order graph embeddings [[paper]](./papers/21904.01543.pdf) [[link]](https://arxiv.org/abs/1904.01543)
 
-
----
-
+2019
 
 AAAI-2019: Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks [[paper]](./papers/1810.02244.pdf) [[link]](https://arxiv.org/abs/1810.02244)
 
