@@ -21,6 +21,14 @@ Arxiv-2020: Explainability in Graph Neural Networks: A Taxonomic Survey [[paper]
 
 ### Papers
 
+2023
+
+ICLR-2023: Interpretable Geometric Deep Learning via Learnable Randomness Injection [[paper]](./papers/2210.16966.pdf) [[link]](https://arxiv.org/abs/2210.16966)
+
+2022
+
+ICML-2022: Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism [[paper]](./papers/miao22a.pdf) [[link]](https://proceedings.mlr.press/v162/miao22a/miao22a.pdf)
+
 2019
 
 NIPS-2019: GNNExplainer: Generating Explanations for Graph Neural Networks [[paper]](./papers/1903.03894.pdf) [[link]](https://arxiv.org/abs/1903.03894)
